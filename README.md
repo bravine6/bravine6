@@ -1,4 +1,7 @@
 ### Hi there 👋
+Ask me about Android || Java || Flutter || Firebase || PHP
+Phone- +254713432225
+Email- ropbravine@gmail.com
 
 <!--
 **bravine6/bravine6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
